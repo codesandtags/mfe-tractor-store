@@ -2,7 +2,7 @@
 
 ## Overview Tractor Store
 
-[Tractor Models Inc](https://learning.oreilly.com/library/view/micro-frontends-in/9781617296871/), ., an imaginary startup, manufactures high-quality tin toy models of popular tractor brands. Currently, they are in the process of building an e-commerce website: The Tractor Store. It allows tractor fans from all over the world to purchase their favorite models.
+[Tractor Models Inc](https://learning.oreilly.com/library/view/micro-frontends-in/9781617296871/), is an imaginary startup, manufactures high-quality tin toy models of popular tractor brands. Currently, they are in the process of building an e-commerce website: The Tractor Store. It allows tractor fans from all over the world to purchase their favorite models.
 
 To cater to their audience as best as possible, they want to experiment and test different features and business models. The concepts they plan to validate are offering deep customization options, auctions for premium material models, regionally limited special editions, and booking private in-person demos in flagship stores in all major cities.
 
